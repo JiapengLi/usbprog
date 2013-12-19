@@ -18,6 +18,8 @@ Use `flashrom` tool and `Arduino Due` to program flash. Based on [serprog-duino]
 	 	GND 						  GND
 	 	3V 							  3V
 
+![](img/hardware-connection.png)
+
 ## Commands
 
 ### Write
